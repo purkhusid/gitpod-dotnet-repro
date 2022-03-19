@@ -1,0 +1,7 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - Ionide.Ionide-fsharp@5.11.0 # Frequently updated on VSX
+    - muhammad-sammy.csharp@1.24.0 # Frequently updated on VSX
